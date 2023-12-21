@@ -1,0 +1,389 @@
+.Content{
+    background-color: #EAECF0;
+    width: 280px; 
+    height: 460px; 
+    padding-left: 16px; 
+    padding-right: 16px; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: flex-start; 
+    gap: 24px; 
+    display: inline-flex
+}
+.Info{
+    align-self: stretch; 
+    height: 108px; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 8px; 
+    display: flex
+}
+.Title{
+    align-self: stretch; 
+    height: 56px; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 4px; 
+    display: flex
+}
+.Name{
+    align-self: stretch; 
+    color: #282828; 
+    font-size: 18px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    line-height: 30px; 
+    word-wrap: break-word
+}
+.JobTitle{
+    align-self: stretch; 
+    color: #3E3E59; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    line-height: 22px; 
+    word-wrap: break-word
+}
+.ThereAreMany{
+    width: 278px;
+    align-self: stretch; 
+    color: #5F6980; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    line-height: 22px; 
+    word-wrap: break-word
+}
+.SocialIcons{
+    align-self: stretch; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 24px; 
+    display: inline-flex
+}
+.Icons{
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 16px; 
+    display: flex
+}
+.IconBox{
+    width: 36px; 
+    height: 36px; 
+    padding: 9px; 
+    background: #F2F4F7; 
+    border-radius: 100px; 
+    justify-content: center; 
+    align-items: center; 
+    display: flex
+}
+.IconFacebook{
+    width: 18px; 
+    height: 18px; 
+    position: relative; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    display: flex
+}
+.Vector{
+    position: relative;
+    top: -6px;
+    left: -6px;
+    width: 30px; 
+    height: 30px
+}
+.IconIndtagram{
+    width: 18px; 
+    height: 18px; 
+    position: relative; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start;
+     display: flex
+}
+.Union{
+    position: relative;
+    top: -6px;
+    left: -6px;
+    width: 30px; 
+    height: 30px
+}
+.IconTwitter{
+    width: 18px; 
+    height: 18px; 
+    position: relative; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    display: flex
+}
+.imga1{
+    position: relative;
+    top: -7px;
+    left: -15px;
+}
+.twinkle{
+    margin-top: 42px;
+    display: flex;
+    max-width: 1336px;
+align-items: flex-start;
+gap: 32px;
+}
+.Content1{
+    margin-left: 300px;
+    background-color: #EAECF0;
+    width: 280px; 
+    height: 460px; 
+    padding-left: 16px; 
+    padding-right: 16px; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: flex-start; 
+    gap: 24px; 
+    display: inline-flex
+}
+.Footer5{
+    margin-top: 50px;
+    width: 1654px;
+    height: 200px; 
+    padding-top: 108px; 
+    padding-bottom: 181px; 
+    padding-left: 164px; 
+    padding-right: 184px; 
+    background: rgba(82.87, 82.87, 82.87, 0.33); 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: inline-flex
+}
+.FooterMain{
+    width: 1306px; height: 223px; position: relative
+}
+.FooterBlock02{
+    width: 136px; 
+    height: 223px; 
+    left: 463px; 
+    top: 0px; 
+    position: absolute
+}
+.WebsiteLinks{
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: #1E1E1E; 
+    font-size: 20px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    word-wrap: break-word
+}
+.Home{
+    width: 92px; 
+    left: 0px; 
+    top: 95px; 
+    position: absolute; 
+    color: #535353; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.About{
+    width: 92px; 
+    height: 48px; 
+    left: 0px; 
+    top: 127px; 
+    position: absolute; 
+    color: #535353; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.GetInTouch{
+    width: 108px; 
+    height: 48px; 
+    left: 0px; 
+    top: 175px; 
+    position: absolute; 
+    color: #535353; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.Services1{
+    width: 199px; 
+    height: 223px; 
+    left: 853px; 
+    top: 0px; 
+    position: absolute
+}
+.Services{
+    left: 6px; 
+    top: 0px; 
+    position: absolute; 
+    color: #1E1E1E; 
+    font-size: 20px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    word-wrap: break-word
+}
+.AssetVault{
+    width: 199px; 
+    height: 48px; 
+    left: 0px; 
+    top: 79px; 
+    position: absolute; 
+    color: #535353; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.EmotionalWill{
+    width: 199px; 
+    height: 48px; 
+    left: 0px; 
+    top: 127px; 
+    position: absolute; 
+    color: #535353; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.TimeCapsule{
+    width: 199px; 
+    height: 48px; 
+    left: 0px; 
+    top: 175px; 
+    position: absolute; 
+    color: #535353; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.FooterBlock04{
+    width: 107px; 
+    height: 127.45px; 
+    left: 1199px; 
+    top: 0px; 
+    position: absolute
+}
+.Languages{
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: #1E1E1E; 
+    font-size: 20px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    word-wrap: break-word
+}
+.Frame1{
+    width: 80px; 
+    height: 20px; 
+    padding-left: 16px; 
+    padding-right: 16px; 
+    padding-top: 14px; 
+    padding-bottom: 14px; 
+    left: 0px; 
+    top: 82.45px; 
+    position: absolute; 
+    background: #054A68; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 10px; 
+    display: inline-flex
+}
+.English{
+    color: white; 
+    font-size: 14px; 
+    font-family: Inter;
+     font-weight: 400; 
+     word-wrap: break-word
+}
+.FooterBlock01{
+    width: 318.05px; 
+    height: 221px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute
+}
+.Group1{
+    width: 104px; 
+    height: 24px; 
+    left: 12px; 
+    top: 197px; 
+    position: absolute
+}
+.IcBaselineFacebook{
+    width: 24px; 
+    height: 24px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    display: inline-flex
+}
+.Vector2{
+    width: 20px; 
+    height: 19.95px; 
+    background: #1E1E1E
+}
+.Vector3{
+    width: 18.75px; 
+    height: 18.75px; 
+    background: #1E1E1E
+}
+.Vector4{
+    width: 19.89px; 
+    height: 19.89px; 
+    background: #1E1E1E
+}
+.PhIns{
+    width: 24px; 
+    height: 24px; 
+    left: 40px; 
+    top: 0px; 
+    position: absolute; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    display: inline-flex
+}
+.Entypo{
+    width: 24px; 
+    height: 24px; 
+    left: 80px; 
+    top: 0px; 
+    position: absolute; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    display: inline-flex
+}
+.Lorem{
+    width: 306.05px; 
+    height: 73px; 
+    left: 12px; 
+    top: 96px; 
+    position: absolute; 
+    color: #535353; 
+    font-size: 14px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.Image31{
+    width: 100px; 
+    height: 64px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute
+}
